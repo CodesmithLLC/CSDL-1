@@ -18,9 +18,19 @@ Lastly, you will learn that no code is sacred. Throughout the course, we provide
 
 # Getting Started
 
+*If you have difficulty with the following steps, please let us know in the #help-desk channel on slack!*
+
 To begin, you will need a Github account and you will need to install git on your computer. If you haven't done either of these things, please do so now.
 
 * Create a Github account [here](https://github.com)
 * Git installation instructions [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-After completing the steps above, create your own fork of this repo.
+After completing the steps above, create your own fork of this repo. To do this, visit this repo on the Codesmith organization on Github. Hit the fork button in the upper right hand corner, and then select your github account. You should be redirected to the new fork you've created.
+
+Now you should clone the fork you've created. hit the green "Clone or download" button and copy the download url that appears. Open up a new terminal window on your computer and navigate to the directory you'd like to store the course materials in. Run the following commands:
+
+1. `git clone <download url you copied>`
+1. `cd CSDL-<cohort number>`
+1. `git remote add upstream https://github.com/CodesmithLLC/CSDL-<cohort number>.git`
+
+Now you're ready to get started with the precourse! Navigate to the `precourse` directory and see the README for directions.

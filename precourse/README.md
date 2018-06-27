@@ -1,10 +1,6 @@
 # CSDL Precourse
 
-Welcome to the CSDL pre-course!
-
-# What to expect from the pre-course
-
-In order to hit the ground running on the first day of class, you've got to be prepared to write clear, concise python code. Priority number one for this pre-course is to lay the strong foundation of python skills that will enable you to succeed in the rest of the course. Along the way you will be exposed to important foundational concepts of machine learning.
+Welcome to the CSDL pre-course! In order to hit the ground running on the first day of class, you've got to be prepared to write clear, concise python code. Priority number one for this pre-course is to lay the strong foundation of python skills that will enable you to succeed in the rest of the course. Along the way you will be exposed to important foundational concepts of machine learning.
 
 Throughout CSDL, we'll rely heavily on a scientific computing platform called *Jupyter*. Jupyter is a wonderful scientfic and educational tool with too many incredible features to list. Priority number two for the pre-course is to get you off the ground with Jupyter. Jupyter is heavily used in industry, and will allow you to create expressive notebooks and presentations that document the machine learning work you've done.
 
