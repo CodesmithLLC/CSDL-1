@@ -6,3 +6,5 @@ This week's solo challenges will guide you towards building a clone of the NumPy
 
 * Day 1: `shaped-array.ipynb`
 * Day 2: `array-broadcasting.ipynb`
+* Day 3: `flatten-array.ipynb`
+* Day 4: `threading-and-benchmarking.ipynb`
